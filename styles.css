@@ -974,6 +974,11 @@ body {
         height: 300px;
     }
     
+    .yogurt-product-img {
+        max-width: 200px;
+        max-height: 250px;
+    }
+    
     .yogurt-bowl {
         width: 200px;
         height: 150px;
